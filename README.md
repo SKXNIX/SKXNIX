@@ -1,6 +1,5 @@
 ### Hi there 👋, Hi there
 #### I am a beginner programmer with a lot of adventurism
-![I am a beginner programmer with a lot of adventurism](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I develop various projects to make various ideas easier to implement. After all, with reliable and convenient tools it is possible to do the impossible.
 
