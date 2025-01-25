@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋, Hi there
+#### I am a beginner programmer with a lot of adventurism
+![I am a beginner programmer with a lot of adventurism](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**SKXNIX/SKXNIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I develop various projects to make various ideas easier to implement. After all, with reliable and convenient tools it is possible to do the impossible.
 
-Here are some ideas to get you started:
+Skills: PYTHON / VBA / GODOT / ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on implementing UI/UX development tools. 
+- 🌱 I’m currently learning python, object-oriented programming, and various game engines 
+- ⚡ Fun fact: All in good time 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SKXNIX)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://discordapp.com/users/368205733805686808/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SKXNIX&show_icons=true)
