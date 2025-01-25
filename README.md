@@ -10,6 +10,6 @@ Skills: PYTHON / VBA / GODOT / ...
 - ⚡ Fun fact: All in good time 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SKXNIX)  [<img src='https://img.icons8.com/?size=256&id=61604&format=png' alt='discord' height='40'>](https://discordapp.com/users/368205733805686808/)  
+[<img src='https://img.icons8.com/?size=256&id=52539&format=png' alt='github' height='50'>](https://github.com/SKXNIX)  [<img src='https://img.icons8.com/?size=256&id=61604&format=png' alt='discord' height='50'>](https://discordapp.com/users/368205733805686808/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SKXNIX&show_icons=true)
