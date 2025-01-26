@@ -1,4 +1,4 @@
-## Hi there ℹ
+## Hi there :speech_balloon:
 ### I am a beginner programmer with a lot of adventurism
 
 I develop various projects to make various ideas _**easier**_ to implement. 
