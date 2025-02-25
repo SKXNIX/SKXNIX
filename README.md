@@ -10,7 +10,7 @@ Skills: <img src=img/letter_p.svg height='20' width='20' alt='P'>YTHON, <img src
 * <img src='img/ic2.svg' alt='PC' height='20' width='20'>  I’m currently learning python, object-oriented programming, and various game engines 
 * <img src='img/ic3.svg' alt='PC' height='20' width='20'>  Honest fact: All in good time 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SKXNIX&show_icons=true&theme=transparent&hide_border=true&title_color=1E61E8&text_color=A42EFA&icon_color=6745F2) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKXNIX&layout=compact&theme=midnight-purple)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SKXNIX&show_icons=true&theme=transparent&hide_border=true&title_color=1E61E8&text_color=A42EFA&icon_color=6745F2) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKXNIX&layout=compact&theme=transparent)
 
 [<img src='https://img.icons8.com/?size=256&id=52539&format=png' alt='github' height='50'>](https://github.com/SKXNIX)   [<img src='https://img.icons8.com/?size=256&id=61604&format=png' alt='discord' height='50'>](https://discordapp.com/users/368205733805686808/)  
 
